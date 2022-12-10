@@ -31,4 +31,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzeyir-yariz&repo=proje&icons=true&theme=highcontrast)](https://github.com/uzeyir-yariz/proje)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uzeyir-yariz&repo=Asther&icons=true&theme=highcontrast)](https://github.com/uzeyir-yariz/Asther)
 
+![contributions](https://user-images.githubusercontent.com/99393019/206873716-60aacef7-7215-4d39-9f42-f09b568f2203.svg)
+
 </div>
