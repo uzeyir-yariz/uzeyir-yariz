@@ -20,7 +20,7 @@
 
 ---
 
-<a href="https://evrimagaci.org/ton618-evrenin-bilinen-en-buyuk-kara-deligi-10421"><img src="https://user-images.githubusercontent.com/99393019/206869729-f2fde5fc-b6ba-425d-975b-a4183c3b75cf.gif"></a>
+<a href="https://evrimagaci.org/ton618-evrenin-bilinen-en-buyuk-kara-deligi-10421"><img src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif"></a>
 
 ---
 
