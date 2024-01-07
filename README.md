@@ -42,12 +42,15 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzeyir-yariz&layout=compact&theme=dark" alt=uzeyir-yariz />
+<h3 align="center">Stars</h3>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=uzeyir-yariz&show_icons=true&locale=en&theme=dark" alt="uzeyir-yariz" /></p>
+---
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uzeyir-yariz&theme=dark" alt="uzeyir-yariz" /></p>
+<p><img align="center" height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=uzeyir-yariz&theme=dark" alt="uzeyir-yariz" /></p>
+
+<p>&nbsp;<img align="center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=uzeyir-yariz&show_icons=true&locale=en&theme=dark" alt="uzeyir-yariz" /></p>
+
+<img align="center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzeyir-yariz&layout=compact&theme=dark" alt=uzeyir-yariz />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
