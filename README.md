@@ -2,8 +2,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/uzeyir-yariz/count.svg?"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/uzeyir-yariz/count.svg?" />
 </div>
 
 ###
